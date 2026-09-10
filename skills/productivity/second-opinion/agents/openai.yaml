@@ -1,0 +1,5 @@
+interface:
+  display_name: "Second Opinion"
+  short_description: "Brief a fresh conversation to reason from zero"
+policy:
+  allow_implicit_invocation: false
