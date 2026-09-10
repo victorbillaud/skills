@@ -15,6 +15,6 @@ Each installed skill is a symlink into this repo, so editing here is editing wha
 
 ### Productivity
 
-- **[second-opinion](./skills/productivity/second-opinion/SKILL.md)** (user-invoked): brief a fresh conversation for a second opinion on the topic this one has narrowed.
+- **[fresh-eyes](./skills/productivity/fresh-eyes/SKILL.md)** (user-invoked): brief a fresh conversation to look at the topic this one has narrowed with fresh eyes.
 
 `CLAUDE.md` holds the invariants an agent editing this repo must keep. `CHANGELOG.md` is the record of what changed and what failure prompted it.
