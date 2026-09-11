@@ -11,7 +11,7 @@ Fresh eyes on the question, never on the answer. Treat what this conversation pr
 
 1. **Sort.** List everything the conversation produced as a numbered list, each item with its proposed placement, **travels** (requirement) or **stays** (design), and a one-line reason. What counts as a requirement is the user's decision, so the list is a proposal and the user answers by number, naming the items to move. A fact of the setup travels when the question turns on it; what it implies for the answer stays. Where the conversation changed its mind, the final position is the one sorted. A point still open travels as a question. If the user passed an argument, it names the part of the topic the fresh eyes are for, and the rest stays. Done when the user has confirmed the placements.
 
-2. **Write the brief** from the travels items alone, in the user's voice, first person, present tense, using the template below. The brief reads as the first time the question has been asked. Where a fact the question turns on is unknown, the brief says so ("I have not measured X"). If the user kept the design on the travels list, the fresh eyes are on the design: the brief includes it and the ask requests a critique. Done when every travels item is in the brief, each once, and nothing from the stays items is.
+2. **Write the brief** from the travels items alone, in the user's voice, first person, present tense, using the template below. The brief reads as the first time the question has been asked. Where a fact the question turns on is unknown, the brief says so ("I have not measured X"). If the user kept the design on the travels list, the fresh eyes are on the design: the brief includes it and the ask requests a critique. The ask ends with the template's two closing sentences, verbatim, and nothing after them. Done when every travels item is in the brief, each once, nothing from the stays items is, and the closing sentences match the template.
 
 3. **Hand it over.** Print the brief in one fenced block so the user can paste it anywhere, and save a copy to the OS temp directory, reporting the path.
 
@@ -33,6 +33,8 @@ Fresh eyes on the question, never on the answer. Treat what this conversation pr
 
 ## What I want back
 
-<the shape of the answer, and the open questions. Form your own view from the above. If any of the givens looks wrong to you, say so.>
+<the shape of the answer, and the open questions>
+
+Form your own view from the above. If any of the givens looks wrong to you, say so.
 
 </brief-template>
